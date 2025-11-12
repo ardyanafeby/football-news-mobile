@@ -136,5 +136,3 @@ class ItemHomepage {
 
  ItemHomepage(this.name, this.icon);
 }
-
-
